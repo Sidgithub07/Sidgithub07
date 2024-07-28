@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sidgithub07
-- 👀 I’m interested in Android development
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me through my mail id Siddharth17.soni@gmail.com
+- 👀 I am an undergraduate student interested in and passionate about the fields like Artificial intelligence and machine learning, currently pursuing engineering in the branch of Information Technology from Bhilai Institute of Technology, Durg.
+- 🌱 I’m currently working on my technical skills to make useful contributions. 
+- 💞️ Let's connect to explore how I can bring value to your team.
+- 📫 You can reach me through my mail id - siddharth17.soni@gmail.com
 
 <!---
 Sidgithub07/Sidgithub07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
